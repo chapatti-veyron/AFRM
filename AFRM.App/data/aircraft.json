@@ -1,0 +1,11 @@
+{
+  "FuelCapacityKg": 20000,
+  "SpeedKt": 450,
+  "FuelKgph": 2400,
+  "GroundFuelKgph": 600,
+  "WaitingFuelKgph": 2000,
+  "SparePerc": 5,
+  "MinSpareMins": 5,
+  "ReserveMins": 30,
+  "WarningMins": 15
+}
