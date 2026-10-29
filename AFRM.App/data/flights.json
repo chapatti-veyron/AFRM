@@ -1,0 +1,182 @@
+[
+  {
+    "Id": "S-001",
+    "DistanceNm": 200,
+    "WindKt": 20,
+    "GroundTimeMins": 15,
+    "BackupDistanceNm": 150,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 2850
+  },
+  {
+    "Id": "S-002",
+    "DistanceNm": 1500,
+    "WindKt": -60,
+    "GroundTimeMins": 20,
+    "BackupDistanceNm": 50,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 10810
+  },
+  {
+    "Id": "S-003",
+    "DistanceNm": 1340,
+    "WindKt": 40,
+    "GroundTimeMins": 25,
+    "BackupDistanceNm": 90,
+    "ExtraFuelKg": 200,
+    "FuelLoadedKg": 9490
+  },
+  {
+    "Id": "S-004",
+    "DistanceNm": 630,
+    "WindKt": -40,
+    "GroundTimeMins": 20,
+    "BackupDistanceNm": 50,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 5960
+  },
+  {
+    "Id": "S-005",
+    "DistanceNm": 760,
+    "WindKt": -20,
+    "GroundTimeMins": 20,
+    "BackupDistanceNm": 80,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 7300
+  },
+  {
+    "Id": "S-006",
+    "DistanceNm": 1310,
+    "WindKt": -40,
+    "GroundTimeMins": 10,
+    "BackupDistanceNm": 60,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 10210
+  },
+  {
+    "Id": "S-007",
+    "DistanceNm": 1240,
+    "WindKt": 20,
+    "GroundTimeMins": 15,
+    "BackupDistanceNm": 190,
+    "ExtraFuelKg": 100,
+    "FuelLoadedKg": 9040
+  },
+  {
+    "Id": "S-008",
+    "DistanceNm": 700,
+    "WindKt": -20,
+    "GroundTimeMins": 10,
+    "BackupDistanceNm": 50,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 5670
+  },
+  {
+    "Id": "S-009",
+    "DistanceNm": 1280,
+    "WindKt": 40,
+    "GroundTimeMins": 25,
+    "BackupDistanceNm": 50,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 7580
+  },
+  {
+    "Id": "S-010",
+    "DistanceNm": 960,
+    "WindKt": -60,
+    "GroundTimeMins": 10,
+    "BackupDistanceNm": 100,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 8300
+  },
+  {
+    "Id": "S-011",
+    "DistanceNm": 910,
+    "WindKt": 0,
+    "GroundTimeMins": 25,
+    "BackupDistanceNm": 120,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 6490
+  },
+  {
+    "Id": "S-012",
+    "DistanceNm": 760,
+    "WindKt": 0,
+    "GroundTimeMins": 15,
+    "BackupDistanceNm": 150,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 6650
+  },
+  {
+    "Id": "S-013",
+    "DistanceNm": 1250,
+    "WindKt": -40,
+    "GroundTimeMins": 10,
+    "BackupDistanceNm": 80,
+    "ExtraFuelKg": 100,
+    "FuelLoadedKg": 8920
+  },
+  {
+    "Id": "S-014",
+    "DistanceNm": 1400,
+    "WindKt": 0,
+    "GroundTimeMins": 15,
+    "BackupDistanceNm": 180,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 9810
+  },
+  {
+    "Id": "S-015",
+    "DistanceNm": 560,
+    "WindKt": 20,
+    "GroundTimeMins": 20,
+    "BackupDistanceNm": 180,
+    "ExtraFuelKg": 100,
+    "FuelLoadedKg": 5590
+  },
+  {
+    "Id": "S-016",
+    "DistanceNm": 980,
+    "WindKt": 20,
+    "GroundTimeMins": 15,
+    "BackupDistanceNm": 140,
+    "ExtraFuelKg": 200,
+    "FuelLoadedKg": 7990
+  },
+  {
+    "Id": "S-017",
+    "DistanceNm": 960,
+    "WindKt": 0,
+    "GroundTimeMins": 25,
+    "BackupDistanceNm": 60,
+    "ExtraFuelKg": 200,
+    "FuelLoadedKg": 7410
+  },
+  {
+    "Id": "S-018",
+    "DistanceNm": 1400,
+    "WindKt": 0,
+    "GroundTimeMins": 25,
+    "BackupDistanceNm": 50,
+    "ExtraFuelKg": 100,
+    "FuelLoadedKg": 9710
+  },
+  {
+    "Id": "S-019",
+    "DistanceNm": 1210,
+    "WindKt": -20,
+    "GroundTimeMins": 15,
+    "BackupDistanceNm": 90,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 8320
+  },
+  {
+    "Id": "S-020",
+    "DistanceNm": 450,
+    "WindKt": 0,
+    "GroundTimeMins": 25,
+    "BackupDistanceNm": 170,
+    "ExtraFuelKg": 0,
+    "FuelLoadedKg": 5610
+  }
+]
