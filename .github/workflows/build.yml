@@ -1,0 +1,36 @@
+name: Build and test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-test:
+    name: Build and test
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v6
+        with:
+          global-json-file: global.json
+
+      - name: Restore locked dependencies
+        run: dotnet restore AFRM.slnx --locked-mode
+
+      - name: Build Release
+        run: dotnet build AFRM.slnx -c Release --no-restore
+
+      - name: Run tests
+        run: dotnet test AFRM.slnx -c Release --no-build --no-restore
