@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AFRM.App/AFRM.App.csproj" />
+  <Project Path="AFRM.Core/AFRM.Core.csproj" />
+  <Project Path="AFRM.Tests/AFRM.Tests.csproj" />
+</Solution>
